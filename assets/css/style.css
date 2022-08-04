@@ -161,15 +161,15 @@ a{
 .our-story-card-text .our-story-card-title{
     color:#fff;
     line-height:1.1;
-    font-size:6.1;
-    margin-bottom:5rem;
+    font-size:50px;
+    margin-bottom:2rem;
     letter-spacing: 2px;
     padding-bottom: 10px;
 }
 .our-story-card-text .our-story-card-subtitle{
     color:#fff; 
     font-weight: 400;
-    font-size:1.625rem;
+    font-size:1.825rem;
   
 }
 .our-story-card-img-container{
@@ -203,10 +203,10 @@ a{
 .downloadAndWatch .our-story-card-animation{
     position: absolute;
     left:50%;
-    bottom:0%;
+    bottom:50%;
     top:283px;
     transform: translateX(-50%);
-    margin:0 auto;
+    margin: auto;
     display:flex;
     background-color: #000;
     align-items: center;
